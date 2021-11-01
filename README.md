@@ -1,4 +1,4 @@
-# Health Assistant
+# Virtual Health Assistant
 
 We have created a project on topic number 3 to solve the problem in healthcare, we have created a city location based search where a patient can search about the doctors in his/her city and schedule and appointment with the doctor which even the doctor can see along with the details of the patient to the doctor as well as details of doctors appointed to the patient.
 
