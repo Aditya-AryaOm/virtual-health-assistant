@@ -10,7 +10,7 @@ Greetings Dear Recruiter, I have also added a zip file named "virtual-health-ass
 ------   ![Landing Page](https://raw.githubusercontent.com/Aditya-AryaOm/virtual-health-assistant/master/Screenshots/11.PNG) ------- ![Dashboard](https://raw.githubusercontent.com/Aditya-AryaOm/virtual-health-assistant/master/Screenshots/22.PNG)
 
 
-### PC Screenshots
+### PC Screenshots (Click on the Images for better resolution)
 
 ![Screenshot](https://raw.githubusercontent.com/Aditya-AryaOm/virtual-health-assistant/master/Screenshots/1.PNG)  
 
