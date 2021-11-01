@@ -1,5 +1,26 @@
 # Virtual Health Assistant Web App
 
+
+### Important Notice
+
+Greetings Dear Recruiter, I have also added a zip file named "virtual-health-assistant.zip" that contains all the files of this project. No Need To Pull This Repositary, You can download the zip file only if you want.
+
+### Phone Screenshots
+
+------   ![Landing Page](https://raw.githubusercontent.com/Aditya-AryaOm/virtual-health-assistant/master/Screenshots/11.PNG) ------- ![Dashboard](https://raw.githubusercontent.com/Aditya-AryaOm/virtual-health-assistant/master/Screenshots/22.PNG)
+
+
+### PC Screenshots
+
+![Screenshot](https://raw.githubusercontent.com/Aditya-AryaOm/virtual-health-assistant/master/Screenshots/1.PNG)  
+
+
+![Screenshot](https://raw.githubusercontent.com/Aditya-AryaOm/virtual-health-assistant/master/Screenshots/2.PNG)
+
+
+![Screenshot](https://raw.githubusercontent.com/Aditya-AryaOm/virtual-health-assistant/master/Screenshots/3.PNG)
+ 
+
 Important Notice:- Greetings Dear Recruiter, I have also added a zip file named "virtual-health-assistant.zip" that contains all the files of this project. No Need To Pull This Repositary, You can download the zip file only if you want.
 
 Dear Recruiter, I have created this project on topic "How can you help to 65+ years old to live a healthier and better life" so. I have created a healthy daily life schedular.  I have also created a city location based search where a patient can search about the doctors in his/her city and schedule and appointment with the doctor.
