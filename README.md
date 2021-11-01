@@ -10,13 +10,13 @@ First you have to register yourself in this app, then you have to put some of yo
 To hide sidebar on dashboard there is a toggle button sticked to side bar on upper right corner. 
 ```
 
-##Features
+### Features
 
 * A Beutifully UI.
 * Fully Responsive and Fully Functional.
 * As it is fully responsive so it can run on any device and gives an app like user experience. 
 
-##Important Files
+### Important Files
 * index.php ----------------------------- Entry Point of App
 * config.php ---------------------------- Configure your database connection
 * db/health_assist.sql ------------------ Database Table File
@@ -41,9 +41,8 @@ in your browser page
 
 
 ### IMPORT DATABASE FIRST
-For importing the database, go to localhost/phpmyadmin, there go create a database named as 
-   ## health_assit 
-   the go inside that blank database and click on import to import that .sql file which is located in the "db folder" as     health_assist.sql
+For importing the database, go to localhost/phpmyadmin, there go create a database named as "health_assit"
+   the go inside that blank database and click on import to import that .sql file which is located in the "db folder" as health_assist.sql
    then, in the project directly go to the "config.php" file where you have to set the username and password accordinly to your system
 
 
